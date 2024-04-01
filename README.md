@@ -183,7 +183,7 @@ Please ensure to update the file paths in both of the below mentioned python not
 
 In this project, two Python notebooks were utilized. 
 
-1.The notebook titled 'Machine_learning_model_implementation.ipynb' encompasses preprocessing, exploratory data analysis, model selection and the identification of the optimal machine learning model for the dataset.
+1. The notebook titled 'Machine_learning_model_implementation.ipynb' encompasses preprocessing, exploratory data analysis, model selection and the identification of the optimal machine learning model for the dataset.
 
 2. The notebook named 'Marketing_source_code_pipeline.ipynb' illustrates the end-to-end pipeline for best identified model training, including saving the model as a pickle file. Furthermore, predictions were made for the target variable 'responded' in the test file, thereby identifying potential customers for the company.
 
