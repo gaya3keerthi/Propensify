@@ -11,7 +11,7 @@ Customer information is considered to be a valuable asset. Propensity modeling i
 Suppose you are working for a company as a Data Scientist. Your company is commissioned by an insurance company to develop a tool to optimize their marketing efforts.
 This project is aimed at building a propensity model to identify potential customers.
 
-# Data:
+## Data:
 The insurance company has provided with a historical dataset (train.csv) and  a list of potential customers to whom to market (test.csv).Note: Ignore additional columns such as ‘profit’ and ‘id’.
 
 Let's delve deeper into the project's details and objectives.
