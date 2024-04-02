@@ -41,7 +41,7 @@ Let's explore each of the outlined steps in detail.
 
 ## 1.Data collection and Exploration
 
-•	The dataset was sourced from the provided link, and the data dictionary is described in detail in the attached pdf named 'Documentation_marketing_campaign.pdf'. 
+•	The dataset was sourced from the provided link, and the data dictionary is described in detail in the attached pdf named 'Documentation_Propensify.pdf'. 
 
 •	A comprehensive exploration of the dataset was conducted, meticulously examining each feature in detail. 
 
